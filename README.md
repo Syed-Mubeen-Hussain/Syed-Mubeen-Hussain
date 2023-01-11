@@ -11,7 +11,7 @@
 
 <br>
 
-- I am a Full-Stack developer based in Karachi, Pakistan.
+- I am a Full-Stack Web Developer based in Karachi, Pakistan.
 - Currently I'm Learning Higher Diploma of Software Engineering from Aptech Metro Star Gate.
 - I am very passionate about improving my coding Skills & developing applications & websites. 
 - I build WebApps and Websites using React Js.

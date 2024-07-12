@@ -11,7 +11,7 @@
 
 I am a dedicated .NET Developer with 1 year plus of experience. I am skilled in C#, ASP.NET Core, ASP.NET MVC , Web APIs, and SQL Server. I have skill to create web applications that meet client needs. I love problem-solving and enjoy the entire development process. I am committed to learning and eager to collaborate with professionals to deliver innovative solutions.
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

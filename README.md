@@ -9,10 +9,7 @@
 
 <br>
 
-- I am a Full-Stack Web Developer based in Karachi, Pakistan.
-- Currently I'm Learning Higher Diploma of Software Engineering from Aptech Metro Star Gate.
-- I am very passionate about improving my coding Skills & developing applications & websites. 
-- I build WebApps and Websites using React Js.
+I am a dedicated .NET Developer with 1 year plus of experience. I am skilled in C#, ASP.NET Core, ASP.NET MVC , Web APIs, and SQL Server. I have skill to create web applications that meet client needs. I love problem-solving and enjoy the entire development process. I am committed to learning and eager to collaborate with professionals to deliver innovative solutions.
 
 <br><br>
 

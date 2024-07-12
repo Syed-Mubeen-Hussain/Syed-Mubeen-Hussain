@@ -30,7 +30,10 @@
 - C
 - Sql Server
 - C#
-- Asp.net Mvc
+- Asp.net core Web API
+- Asp.net Mvc / Asp.net Core
+- EntityFramework/EntityFrawework Core
+- Dapper ORM
 - Php
 - MySql
 - Wordpress
@@ -49,7 +52,6 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
